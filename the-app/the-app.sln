@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the-app", "the-app.csproj", "{7E8114BA-C18E-4C5B-B49D-0AD4C38DD4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carlib", "..\Carlib\Carlib.csproj", "{EB78B1A4-DE92-4503-A69B-9743256515F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E8114BA-C18E-4C5B-B49D-0AD4C38DD4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8114BA-C18E-4C5B-B49D-0AD4C38DD4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8114BA-C18E-4C5B-B49D-0AD4C38DD4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8114BA-C18E-4C5B-B49D-0AD4C38DD4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB78B1A4-DE92-4503-A69B-9743256515F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB78B1A4-DE92-4503-A69B-9743256515F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB78B1A4-DE92-4503-A69B-9743256515F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB78B1A4-DE92-4503-A69B-9743256515F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
