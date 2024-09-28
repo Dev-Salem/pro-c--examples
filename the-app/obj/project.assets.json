@@ -236,7 +236,7 @@
         }
       }
     },
-    "net8.0/win-x64": {
+    "net8.0/osx-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -1000,7 +1000,7 @@
         "warn": true,
         "downloadDependencies": [
           {
-            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
             "version": "[8.0.8, 8.0.8]"
           },
           {
@@ -1008,11 +1008,11 @@
             "version": "[8.0.8, 8.0.8]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
             "version": "[8.0.8, 8.0.8]"
           },
           {
-            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "name": "Microsoft.NETCore.App.Runtime.osx-x64",
             "version": "[8.0.8, 8.0.8]"
           }
         ],
@@ -1025,7 +1025,7 @@
       }
     },
     "runtimes": {
-      "win-x64": {
+      "osx-x64": {
         "#import": []
       }
     }

@@ -1,4 +1,3 @@
-﻿using Ch11;
-using Ch16;
+﻿using Ch17;
 
-Chapter16.UseInternalClassExample();
+ReflectionExamples.TypeExample();

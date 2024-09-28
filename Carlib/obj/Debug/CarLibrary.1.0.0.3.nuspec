@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CarLibrary</id>
+    <version>1.0.0.3</version>
+    <authors>Salem Saleh</authors>
+    <description>This is an awesome library for cars.</description>
+    <copyright>Copyright 2024</copyright>
+    <repository type="git" commit="5ec2920127cd4690839e76787691ba045a4c78b3" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/devsalem/Desktop/dot-net-lab/Carlib/bin/Debug/net8.0/Carlib.dll" target="lib/net8.0/Carlib.dll" />
+  </files>
+</package>

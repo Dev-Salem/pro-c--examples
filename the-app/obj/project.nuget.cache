@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e12nZGkE3jU=",
+  "dgSpecHash": "hzvFT/dp2DA=",
   "success": true,
   "projectFilePath": "/Users/devsalem/Desktop/dot-net-lab/the-app/the-app.csproj",
   "expectedPackageFiles": [
@@ -16,10 +16,10 @@
     "/Users/devsalem/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
     "/Users/devsalem/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/devsalem/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/Users/devsalem/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.8/microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
-    "/Users/devsalem/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.8/microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "/Users/devsalem/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/8.0.8/microsoft.netcore.app.runtime.osx-x64.8.0.8.nupkg.sha512",
+    "/Users/devsalem/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/8.0.8/microsoft.aspnetcore.app.runtime.osx-x64.8.0.8.nupkg.sha512",
     "/Users/devsalem/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.8/microsoft.netcore.app.crossgen2.osx-arm64.8.0.8.nupkg.sha512",
-    "/Users/devsalem/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.8/microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
+    "/Users/devsalem/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.8/microsoft.netcore.app.host.osx-x64.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }
