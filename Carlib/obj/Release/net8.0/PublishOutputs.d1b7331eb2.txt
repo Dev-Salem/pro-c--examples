@@ -1,0 +1,3 @@
+/Users/devsalem/Desktop/dot-net-lab/the-app/singlefilefinal2/Carlib.dll
+/Users/devsalem/Desktop/dot-net-lab/the-app/singlefilefinal2/Carlib.deps.json
+/Users/devsalem/Desktop/dot-net-lab/the-app/singlefilefinal2/Carlib.pdb

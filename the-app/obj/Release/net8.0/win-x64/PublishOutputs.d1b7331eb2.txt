@@ -1,0 +1,4 @@
+/Users/devsalem/Desktop/dot-net-lab/the-app/singlefilefinal2/appsettings.dev.json
+/Users/devsalem/Desktop/dot-net-lab/the-app/singlefilefinal2/appsettings.json
+/Users/devsalem/Desktop/dot-net-lab/the-app/singlefilefinal2/Carlib.pdb
+/Users/devsalem/Desktop/dot-net-lab/the-app/singlefilefinal2/the-app.exe
