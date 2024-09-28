@@ -18,3 +18,11 @@ public class SportCar : Car
         Console.WriteLine("Im a total beast");
     }
 }
+
+public class ClassicCar : Car
+{
+    public override void TurboBoost()
+    {
+        Console.WriteLine("Im so classy!");
+    }
+}

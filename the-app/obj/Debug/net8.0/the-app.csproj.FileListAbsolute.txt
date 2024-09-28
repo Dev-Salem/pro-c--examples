@@ -25,3 +25,5 @@
 /Users/devsalem/Desktop/dot-net-lab/the-app/obj/Debug/net8.0/the-app.csproj.AssemblyReference.cache
 /Users/devsalem/Desktop/dot-net-lab/the-app/obj/Debug/net8.0/the-app.csproj.Up2Date
 /Users/devsalem/Desktop/dot-net-lab/the-app/bin/Debug/net8.0/appsettings.dev.json
+/Users/devsalem/Desktop/dot-net-lab/the-app/bin/Debug/net8.0/Carlib.dll
+/Users/devsalem/Desktop/dot-net-lab/the-app/bin/Debug/net8.0/Carlib.pdb

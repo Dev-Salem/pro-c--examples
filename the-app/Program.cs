@@ -1,4 +1,4 @@
 ﻿using Ch11;
 using Ch16;
 
-Chapter16.ConfigurationExample();
+Chapter16.UseInternalClassExample();

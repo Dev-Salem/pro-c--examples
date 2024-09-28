@@ -11,10 +11,10 @@
     "/Users/devsalem/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.0.3",
     "restore": {
       "projectUniqueName": "/Users/devsalem/Desktop/dot-net-lab/Carlib/Carlib.csproj",
-      "projectName": "Carlib",
+      "projectName": "CarLibrary",
       "projectPath": "/Users/devsalem/Desktop/dot-net-lab/Carlib/Carlib.csproj",
       "packagesPath": "/Users/devsalem/.nuget/packages/",
       "outputPath": "/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/",

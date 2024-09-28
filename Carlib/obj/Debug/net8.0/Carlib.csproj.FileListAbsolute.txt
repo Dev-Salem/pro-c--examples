@@ -1,0 +1,11 @@
+/Users/devsalem/Desktop/dot-net-lab/Carlib/bin/Debug/net8.0/Carlib.deps.json
+/Users/devsalem/Desktop/dot-net-lab/Carlib/bin/Debug/net8.0/Carlib.dll
+/Users/devsalem/Desktop/dot-net-lab/Carlib/bin/Debug/net8.0/Carlib.pdb
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/Carlib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/Carlib.AssemblyInfoInputs.cache
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/Carlib.AssemblyInfo.cs
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/Carlib.csproj.CoreCompileInputs.cache
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/Carlib.dll
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/refint/Carlib.dll
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/Carlib.pdb
+/Users/devsalem/Desktop/dot-net-lab/Carlib/obj/Debug/net8.0/ref/Carlib.dll

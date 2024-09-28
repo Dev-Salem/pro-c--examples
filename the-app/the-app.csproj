@@ -25,5 +25,9 @@
     <CopyToOutputDirectory>Always</CopyToOutputDirectory>
    </None>
 </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Carlib\Carlib.csproj" />
+  </ItemGroup>
+
 
 </Project>

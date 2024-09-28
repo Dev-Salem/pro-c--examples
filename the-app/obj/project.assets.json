@@ -218,6 +218,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "Carlib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Carlib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Carlib.dll": {}
+        }
       }
     }
   },
@@ -610,10 +620,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Carlib/1.0.0": {
+      "type": "project",
+      "path": "../Carlib/Carlib.csproj",
+      "msbuildProject": "../Carlib/Carlib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Carlib >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 8.0.0",
       "Microsoft.Extensions.Configuration.Binder >= 8.0.2",
       "Microsoft.Extensions.Configuration.Json >= 8.0.0"
@@ -643,7 +659,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/devsalem/Desktop/dot-net-lab/Carlib/Carlib.csproj": {
+              "projectPath": "/Users/devsalem/Desktop/dot-net-lab/Carlib/Carlib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -693,5 +713,13 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
