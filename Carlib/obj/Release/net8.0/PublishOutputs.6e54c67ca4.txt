@@ -1,0 +1,3 @@
+/Users/devsalem/Desktop/dot-net-lab/Carlib/bin/Release/net8.0/publish/Carlib.dll
+/Users/devsalem/Desktop/dot-net-lab/Carlib/bin/Release/net8.0/publish/Carlib.deps.json
+/Users/devsalem/Desktop/dot-net-lab/Carlib/bin/Release/net8.0/publish/Carlib.pdb

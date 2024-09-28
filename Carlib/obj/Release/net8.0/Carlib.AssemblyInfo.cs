@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright 2024")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This is an awesome library for cars.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.2")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.3+3363d23e46875f5de2ec66601263991bf3e45da6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.3+a141ca683e78b9e7e50d146f87dca02359944098")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nah")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carlib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]
