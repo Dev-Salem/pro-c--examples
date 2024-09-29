@@ -1,3 +1,3 @@
 ﻿using Ch17;
 
-ReflectionExamples.TypeExample();
+ReflectionExamples.DynamicKeywordExample();

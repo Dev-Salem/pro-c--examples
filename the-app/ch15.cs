@@ -1,4 +1,5 @@
 //Multi Threading, Parallel, and Async
+global using System.Text.Json.Serialization;
 using System.Threading;
 using Ch11;
 
