@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>John</Name>
+    <Age>32</Age>
+    <Pets />
+  </Person>
+  <Person>
+    <Name>Ann</Name>
+    <Age>22</Age>
+    <Pets>
+      <Pet>
+        <Name>Rocky</Name>
+        <AnimalType>Dog</AnimalType>
+      </Pet>
+    </Pets>
+  </Person>
+  <Person>
+    <Name>Bruce</Name>
+    <Age>27</Age>
+    <Pets>
+      <Pet>
+        <Name>Kitty</Name>
+        <AnimalType>Cat</AnimalType>
+      </Pet>
+      <Pet>
+        <Name>Alex</Name>
+        <AnimalType>Cat</AnimalType>
+      </Pet>
+    </Pets>
+  </Person>
+</ArrayOfPerson>

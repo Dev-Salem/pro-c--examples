@@ -145,5 +145,15 @@ static class MyExtensions
             Console.WriteLine(o);
         }
     }
+
+    public static void Separate(this int o)
+    {
+        string s = "*";
+        for (int i = 0; i < o; i++)
+        {
+            s += " * ";
+        }
+        s.Print();
+    }
     // public static IEnumerator GetEnumerator(this PointClass point) => point.GetEnumerator();
 }

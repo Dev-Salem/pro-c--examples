@@ -6,7 +6,7 @@
     <authors>Salem Saleh</authors>
     <description>This is an awesome library for cars.</description>
     <copyright>Copyright 2024</copyright>
-    <repository type="git" commit="8bf6d1ce6b1338548a6d2c831b311e21f52be62b" />
+    <repository type="git" commit="817c80472b615e2e0cfbf0738a83f0ad968c59f8" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>

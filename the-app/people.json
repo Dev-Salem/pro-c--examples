@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "John",
+    "Age": 32,
+    "Pets": []
+  },
+  {
+    "Name": "Ann",
+    "Age": 22,
+    "Pets": [
+      {
+        "AnimalType": 0,
+        "Name": null
+      }
+    ]
+  },
+  {
+    "Name": null,
+    "Age": 27,
+    "Pets": [
+      {
+        "AnimalType": 1,
+        "Name": "Kitty"
+      },
+      {
+        "AnimalType": 1,
+        "Name": "Alex"
+      }
+    ]
+  }
+]

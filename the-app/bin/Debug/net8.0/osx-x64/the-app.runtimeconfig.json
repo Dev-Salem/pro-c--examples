@@ -18,7 +18,7 @@
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
       "System.StartupHookProvider.IsSupported": false,
       "System.Text.Encoding.EnableUnsafeUTF7Encoding": false,
-      "System.Text.Json.JsonSerializer.IsReflectionEnabledByDefault": false,
+      "System.Text.Json.JsonSerializer.IsReflectionEnabledByDefault": true,
       "System.Threading.Thread.EnableAutoreleasePool": false
     }
   }

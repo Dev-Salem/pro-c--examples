@@ -14,6 +14,8 @@
     <DebugType>embedded</DebugType>
     <EnableCompressionInSinglefile>true</EnableCompressionInSinglefile>
     <PublishReadyToRun>true</PublishReadyToRun>
+  <PublishTrimmed>true</PublishTrimmed>
+  <JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault>
   </PropertyGroup>
 
   <ItemGroup>
